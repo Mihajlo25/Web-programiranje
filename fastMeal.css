@@ -1,0 +1,46 @@
+body{
+  background-color: #ecf0f3;
+}
+#mainNavbar{
+  background-color: #faf9f3;
+}
+#mainNavbar .navbar-brand{
+  color: #ff7814;
+}
+
+#mainNavbar .nav-link{
+  color:#f7b190;
+}
+#mainNavbar .nav-link:hover{
+  color:#ff7814;
+}
+#searchForm button{
+  background-color: transparent;
+  color: #f7b190;
+  border-radius: 0.5rem;
+  border: 2px solid #f7b190;
+}
+#searchForm button:hover{
+  color: #ff7814;
+  border-color:#ff7814 ;
+}
+
+.container{
+  background-color: #FFF7C6;
+}
+
+.textBox{
+  color: #ff7814;
+  
+}
+
+#hamburger{
+  height: 35px;
+  width: auto;
+}
+
+.relativanOpis{
+  color: white;
+  background-color: #ff7814;
+  border-radius: 1px 1px 20px 20px;
+}

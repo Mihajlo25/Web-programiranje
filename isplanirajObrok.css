@@ -1,0 +1,43 @@
+body {
+  padding-top: 70px;
+}
+
+.get{
+  padding-top: 20px;
+}
+
+.btn{
+    color: white;
+    background-color:#f7b190;
+  }
+.btn:hover{
+    background-color:#ff7814;
+  }
+.container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #ecf0f3;
+    border-radius: 10px;
+}
+.container .row{
+    margin-bottom: 40px;
+}
+
+.container .row:last-child{
+  margin-bottom: 0px;
+}
+
+#btnParent{
+  padding: 0px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#btnPronadjiRecepte{
+  position: absolute;
+  left: 30%;
+}
+
+#forma .my-sm-1{
+  
+}
